@@ -1,6 +1,5 @@
 # WebApiAutores
 
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
 ## Descripción
 
